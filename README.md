@@ -8,15 +8,6 @@ react-native-yandex-speech-kit
 npm install react-native-yandex-speech-kit
 ```
 
-## Usage
-
-```js
-import YandexSpeechKit from "react-native-yandex-speech-kit";
-
-// ...
-
-const result = await YandexSpeechKit.multiply(3, 7);
-```
 
 ## Contributing
 
